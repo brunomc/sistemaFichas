@@ -1,0 +1,5 @@
+br\com\sistema\rest\MessageRestService.class
+br\com\sistema\path\Ficha.class
+br\com\sistema\rest\Service.class
+br\com\sistema\model\Ficha.class
+br\com\sistema\model\Animal.class
